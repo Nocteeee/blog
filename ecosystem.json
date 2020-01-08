@@ -14,8 +14,8 @@
       "user" : "root",
       "host" : ["101.133.167.101"],
       "ref"  : "origin/master",
-      "repo" : "git@xxx.git",
-      "path" : "/data/blog/admin",
+      "repo" : "https://github.com/Nocteeee/blog.git",
+      "path" : "/www/web",
       "post-deploy" : "npm install && npm run build && pm2 startOrRestart ecosystem.json --env production",
       "ssh_options": "StrictHostKeyChecking=no",
       "env"  : {
