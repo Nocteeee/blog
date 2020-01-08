@@ -1,0 +1,3 @@
+2019-10-17 05:59:03,428 INFO 59191 [Job#157126314342718367568309748531] /Users/liunian/Desktop/mine/test/nocte.github.io/service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2019-10-17 05:59:03,447 INFO 59191 [Job#157126314342718367568309748531] /Users/liunian/Desktop/mine/test/nocte.github.io/service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 18ms
+2019-10-17 05:59:03,434 INFO 59166 [Timer] /Users/liunian/Desktop/mine/test/nocte.github.io/service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 81056571ms at 2019-10-18 04:30:00.005
