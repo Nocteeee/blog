@@ -1,4 +1,4 @@
-let ipUrl = 'http://101.133.167.101:7002/default/'
+let ipUrl = 'http://101.133.167.101:7002/default/';
 
 const servicePath = {
     getArticleList: ipUrl + 'article',  //  首页文章列表接口

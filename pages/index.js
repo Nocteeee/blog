@@ -6,6 +6,7 @@ import '../static/style/pages/index.css'
 import Header from '../components/Header'
 import Author from '../components/Author'
 import Advert from '../components/Advert'
+import Clock from '../components/Clock'
 import Footer from "../components/Footer";
 import marked from 'marked'
 import hljs from "highlight.js";
@@ -39,6 +40,7 @@ const Home = (list) => {
                 <title>首页 | 前端技术博客</title>
             </Head>
             <Header/>
+            {/*<Clock/>*/}
             <Row className="comm-main" type="flex" justify="center">
                 <Col className="comm-left" xs={24} sm={24} md={16} lg={18} xl={14}>
                     <div>
