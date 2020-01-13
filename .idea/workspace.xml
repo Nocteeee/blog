@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce639b30-50b9-4694-8e11-c183387eb894" name="Default Changelist" comment="reset">
+    <list default="true" id="ce639b30-50b9-4694-8e11-c183387eb894" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -111,7 +111,7 @@
       <workItem from="1578467354525" duration="7057000" />
       <workItem from="1578550469938" duration="5498000" />
       <workItem from="1578735112701" duration="494000" />
-      <workItem from="1578909018724" duration="51000" />
+      <workItem from="1578909018724" duration="3308000" />
     </task>
     <task id="LOCAL-00001" summary="reset">
       <created>1568722888870</created>
@@ -295,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578562061704</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="更改build 配置">
+      <created>1578909110606</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1578909110606</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +341,7 @@
     <MESSAGE value="reset" />
     <MESSAGE value="commit" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="更改build 配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改build 配置" />
   </component>
 </project>
