@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce639b30-50b9-4694-8e11-c183387eb894" name="Default Changelist" comment="reset" />
+    <list default="true" id="ce639b30-50b9-4694-8e11-c183387eb894" name="Default Changelist" comment="reset">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +15,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -105,6 +108,10 @@
       <workItem from="1574832437525" duration="127000" />
       <workItem from="1574832574664" duration="2537000" />
       <workItem from="1578461148362" duration="2747000" />
+      <workItem from="1578467354525" duration="7057000" />
+      <workItem from="1578550469938" duration="5498000" />
+      <workItem from="1578735112701" duration="494000" />
+      <workItem from="1578909018724" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="reset">
       <created>1568722888870</created>
@@ -274,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570610425410</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="commit">
+      <created>1578468965005</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1578468965005</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <created>1578562061704</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1578562061704</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +332,8 @@
     <MESSAGE value="change loading" />
     <MESSAGE value="添加监控" />
     <MESSAGE value="reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="reset" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
