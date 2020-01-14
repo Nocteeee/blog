@@ -111,7 +111,7 @@
       <workItem from="1578467354525" duration="7057000" />
       <workItem from="1578550469938" duration="5498000" />
       <workItem from="1578735112701" duration="494000" />
-      <workItem from="1578909018724" duration="3308000" />
+      <workItem from="1578909018724" duration="5456000" />
     </task>
     <task id="LOCAL-00001" summary="reset">
       <created>1568722888870</created>
@@ -302,7 +302,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578909110606</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="修改package.json">
+      <created>1578919442615</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1578919442615</updated>
+    </task>
+    <task id="LOCAL-00029" summary="修改package.json">
+      <created>1578967761827</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1578967761827</updated>
+    </task>
+    <task id="LOCAL-00030" summary="修改package.json">
+      <created>1578968625575</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1578968625575</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +363,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="update" />
     <MESSAGE value="更改build 配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改build 配置" />
+    <MESSAGE value="修改package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改package.json" />
   </component>
 </project>

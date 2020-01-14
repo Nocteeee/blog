@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && yarn start",
-    "start": "PORT=8000 next start"
+    "start": "PORT=3000 next start"
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
