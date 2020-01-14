@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce639b30-50b9-4694-8e11-c183387eb894" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecosystem.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecosystem.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +112,7 @@
       <workItem from="1578467354525" duration="7057000" />
       <workItem from="1578550469938" duration="5498000" />
       <workItem from="1578735112701" duration="494000" />
-      <workItem from="1578909018724" duration="5456000" />
+      <workItem from="1578909018724" duration="10687000" />
     </task>
     <task id="LOCAL-00001" summary="reset">
       <created>1568722888870</created>
@@ -323,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578968625575</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="修改package.json">
+      <created>1578969080643</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1578969080643</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
